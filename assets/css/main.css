@@ -2546,7 +2546,7 @@
 		height: 3.75em;
 		line-height: 3.85em;
 		letter-spacing: 2px;
-		padding: 0 4em;
+		padding: 0 2em;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -2946,10 +2946,8 @@
 		}
 
 		#banner .inner {
-			border-top: 2px solid rgba(255, 255, 255, 0.2);
 			position: relative;
 			z-index: 10005;
-			padding-top: 8em;
 		}
 
 		#banner h1 {
@@ -2977,6 +2975,14 @@
 			font-size: 1em;
 			color: rgba(255, 255, 255, 0.55);
 			margin-bottom: 1.75em;
+		}
+		
+		#banner a img {
+			box-shadow:0 1em 6em #57999e;
+		}
+		
+		#banner a:hover img {
+			box-shadow:0 1em 6em #ffffff;
 		}
 
 		#banner .flex {
