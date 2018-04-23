@@ -6,12 +6,26 @@
 	
 	TO DO
 	- add popup email signup form on front page (all pages?)
-	- get proper book cover graphics
 	- create landing page for ads
 	- add contact info? keep original contact form at bottom?
 	- add amazon bookshelf?
 	- 'other projects' page with GoC?
 	
+	OLD DNS records for Google site:
+michaelschulkins.com. 1799 IN A 216.239.32.21
+michaelschulkins.com. 1799 IN A 216.239.34.21
+michaelschulkins.com. 1799 IN A 216.239.36.21
+michaelschulkins.com. 1799 IN A 216.239.38.21
+michaelschulkins.com. 3599 IN NS ns77.domaincontrol.com.
+michaelschulkins.com. 3599 IN NS ns78.domaincontrol.com.
+michaelschulkins.com. 3599 IN SOA ns77.domaincontrol.com. dns.jomax.net. 2016050300 28800 7200 604800 600
+michaelschulkins.com. 3599 IN MX 10 mailstore1.secureserver.net.
+michaelschulkins.com. 3599 IN MX 0 smtp.secureserver.net.
+michaelschulkins.com. 3599 IN TXT "google-site-verification=R2qPjududFjxp8YPR7Ck1ALZp1OIuCdpgQr0ShDcFDY"
+michaelschulkins.com. 1799 IN AAAA 2001:4860:4802:32::15
+michaelschulkins.com. 1799 IN AAAA 2001:4860:4802:34::15
+michaelschulkins.com. 1799 IN AAAA 2001:4860:4802:36::15
+michaelschulkins.com. 1799 IN AAAA 2001:4860:4802:38::15
 -->
 <html>
 	<head>
@@ -49,16 +63,16 @@
 					
 					<div class="row">
 						<div class="3u 12u$(medium)">
-							<a href="up-a-tree.html"><img src="images/up-a-tree.jpg" height="250" alt="Up A Tree: A Jobs & Plunkitt Galactic Adventure - novel by Michael Schulkins" title="Up A Tree" /></a>
+							<a href="/up-a-tree"><img src="images/up-a-tree.jpg" height="250" alt="Up A Tree: A Jobs & Plunkitt Galactic Adventure - novel by Michael Schulkins" title="Up A Tree" /></a>
 						</div>
 						<div class="3u 12u$(medium)">
-							<a href="beltway.html"><img src="images/beltway.jpg" height="250" alt="Beltway - novel by Michael Schulkins" title="Beltway" /></a>
+							<a href="/beltway"><img src="images/beltway.jpg" height="250" alt="Beltway - novel by Michael Schulkins" title="Beltway" /></a>
 						</div>
 						<div class="3u 12u$(medium)">
-							<a href="mother-lode.html"><img src="images/mother-lode.jpg" height="250" alt="Mother Lode - novel by Michael Schulkins" title="Mother Lode" /></a>
+							<a href="/mother-lode"><img src="images/mother-lode.jpg" height="250" alt="Mother Lode - novel by Michael Schulkins" title="Mother Lode" /></a>
 						</div>
 						<div class="3u$ 12u$(medium)">
-							<a href="sting-suite.html"><img src="images/sting-suite.jpg" height="250" alt="Sting Suite - novel by Michael Schulkins" title="Sting Suite" /></a>
+							<a href="/sting-suite"><img src="images/sting-suite.jpg" height="250" alt="Sting Suite - novel by Michael Schulkins" title="Sting Suite" /></a>
 						</div>
 					</div>
 					
@@ -132,7 +146,7 @@
 		<!-- Footer -->
 			<footer id="footer">
 					<div class="copyright">
-						&copy; Michael Schulkins. Design by <a href="https://templated.co">templated.co</a>
+						&copy; Michael Schulkins. Site template by <a href="https://templated.co">templated.co</a>
 					</div>
 			</footer>
 

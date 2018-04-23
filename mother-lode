@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Sting Suite - a novel by Michael Schulkins</title>
+		<title>Mother Lode - a novel by Michael Schulkins</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -30,16 +30,16 @@
     "sameAs": "http://www.michaelschulkins.com"
   }, 
   "copyrightYear": "2010",
-  "description": "When world-class con artist John Law discovers a congressional committee has frozen the $97 million he scammed from Uncle Sam, he heads straight for the belly of the beast: Washington DC.  Law draws hard-drinking, skirt-chasing US Senator Frank Mahoney and his straight-arrow chief of staff Tom Beckman into an elaborate scheme designed to trick Mahoney into getting Law’s millions out of stir.",
+  "description": "Put a dollar in the slot, pull the handle, then try to follow the action as the plots start to spin out of control. Mother Lode delivers a jackpot of laughs, surprises, suspense, and deadly fun as a pack of charming, ruthless, and insane characters all try to beat the Biggest Slot Machine in the World.",
   "genre": "Crime Humor",
-  "image": "images/sting-suite.jpg", 
+  "image": "images/mother-lode.jpg", 
   "inLanguage": "en-US",
-  "isbn": "9781370933211",
-  "name": "Sting Suite",
-  "numberOfPages": "464",
+  "isbn": "9781370976843",
+  "name": "Mother Lode",
+  "numberOfPages": "339",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": "$10.99",
+    "highPrice": "$8.99",
     "lowPrice": "$2.99",
     "offerCount": "5",
     "offers": [
@@ -53,19 +53,19 @@
           "@id": "https://www.amazon.com",
           "name": "Amazon"
         },
-        "url": "https://www.amazon.com/Sting-Suite-Michael-Schulkins-ebook/dp/B00MERZDCC/"
+        "url": "https://www.amazon.com/Mother-Lode-Michael-Schulkins-ebook/dp/B00MF5GYT4/"
       },
       {
         "@type": "Offer",
 		"category": "Paperback", 
-        "price": "10.99",
+        "price": "8.99",
         "priceCurrency": "USD",
 		"offeredBy": {
           "@type": "Organization",
           "@id": "https://www.amazon.com",
           "name": "Amazon"
         },
-        "url": "https://www.amazon.com/Sting-Suite-Michael-Schulkins/dp/1451594992/" 
+        "url": "https://www.amazon.com/Mother-Lode-Michael-Schulkins/dp/1453807136/" 
       },
       {
         "@type": "Offer",
@@ -77,7 +77,7 @@
           "@id": "https://www.barnesandnoble.com",
           "name": "Barnes & Noble"
         },
-        "url": "https://www.barnesandnoble.com/w/sting-suite-michael-schulkins/1029268125" 
+        "url": "https://www.barnesandnoble.com/w/mother-lode-michael-schulkins/1029269705" 
       },
       {
         "@type": "Offer",
@@ -89,7 +89,7 @@
           "@id": "https://www.kobo.com",
           "name": "Kobo"
         },
-        "url": "https://www.kobo.com/us/en/ebook/sting-suite" 
+        "url": "https://www.kobo.com/us/en/ebook/mother-lode-5" 
       },
       {
         "@type": "Offer",
@@ -101,7 +101,7 @@
           "@id": "https://www.smashwords.com",
           "name": "Smashwords"
         },
-        "url": "https://www.smashwords.com/books/view/798220"
+        "url": "https://www.smashwords.com/books/view/798184"
       }
     ]
   }
@@ -114,13 +114,13 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="index.html" class="logo"><strong>Michael Schulkins</strong></a>
+					<a href="/" class="logo"><strong>Michael Schulkins</strong></a>
 					<nav id="nav">
-						<a href="index.html">Home</a>
-						<a href="up-a-tree.html">Up A Tree</a>
-						<a href="beltway.html">Beltway</a>
-						<a href="mother-lode.html">Mother Lode</a>
-						<a href="sting-suite.html">Sting Suite</a>
+						<a href="/">Home</a>
+						<a href="/up-a-tree">Up A Tree</a>
+						<a href="/beltway">Beltway</a>
+						<a href="/mother-lode">Mother Lode</a>
+						<a href="/sting-suite">Sting Suite</a>
 					</nav>
 					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
 				</div>
@@ -129,41 +129,40 @@
 		<!-- Main -->
 			<section id="main" class="wrapper">
 				<div class="inner">
-					<span class="image left"><img src="images/sting-suite.jpg" alt="Sting Suite - novel by Michael Schulkins" title="Sting Suite" /></span>
-					<h2>Sting Suite</h2>
-					<p>When world-class con artist John Law discovers a congressional committee has frozen the $97 million he scammed from Uncle Sam, he heads straight for the belly of the beast: Washington DC.  Law soon draws hard-drinking, skirt-chasing US Senator Frank Mahoney and his straight-arrow chief of staff Tom Beckman into an elaborate scheme designed to trick Mahoney into getting Law’s stolen millions out of stir.</p>
-					<p>Before long the cast of characters of this convoluted comic caper includes an African-American Trekkie pickpocket, a wisecracking blonde out to catch herself a senator, and a drug-addled computer geek so tripped out he thinks he’s paralyzed.  By the time the scam reaches its climax in a fake FBI sting suite at a raucous State Party convention, no one is sure who anyone really is or which of three (or is it four?) sides they might be on.  To decide the winner, it will take seductions, betrayals, a rooftop shootout, and tuxedo-clad congressmen diving for $100 bills in a hotel swimming pool.</p>
-					<p>Full of wacky characters, absurd situations, wry political satire, and mind-bending cons within cons, <i>Sting Suite</i> is a dizzying comic romp through the corridors of power.</p>
+					<span class="image left"><img src="images/mother-lode.jpg" alt="Mother Lode - novel by Michael Schulkins" title="Mother Lode" /></span>
+					<h2>Mother Lode</h2>
+					<p>Everybody’s going nuts over the Biggest Slot Machine in the World. Octogenarian skinflint Elmore Joad thinks it will attract enough “suckers” to put his aging Mother Lode Hotel and Casino back in the black, especially since he’s had the giant slot rigged never to hit the million dollar jackpot. Part time guitarist and full time slot cheat Darryl “the Wire” Miller wants to beat the big machine in the worst way, and if he plays his cards right he may get Kitty Carson, Reno’s best card mechanic, to help him do it. Then there’s Gaming cop Jaime Gabrón, who’s stalking the suspicious slot and Elmore Joad like a sun-baked refried Columbo. The only guys in town not interested in the big machine are the two hit men Joad hired to kill his sexy wife Daisy, but then they have some special plans of their own…</p>
+					<p>Put a dollar in the slot, pull the handle, then try to follow the action as the plots start to spin out of control. <i>Mother Lode</i> delivers a jackpot of laughs, surprises, suspense, and deadly fun as a pack of charming, ruthless, and insane characters all try to beat the Biggest Slot Machine in the World.</p>
 
 					<div class="row">
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.amazon.com/Sting-Suite-Michael-Schulkins-ebook/dp/B00MERZDCC/" class="button fit">Amazon</a></li>
+								<li><a href="https://www.amazon.com/Mother-Lode-Michael-Schulkins-ebook/dp/B00MF5GYT4/" class="button fit">Amazon</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.barnesandnoble.com/w/sting-suite-michael-schulkins/1029268125" class="button fit">Barnes & Noble</a></li>
+								<li><a href="https://www.barnesandnoble.com/w/mother-lode-michael-schulkins/1029269705" class="button fit">Barnes & Noble</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.kobo.com/us/en/ebook/sting-suite" class="button fit">Kobo</a></li>
+								<li><a href="https://www.kobo.com/us/en/ebook/mother-lode-5" class="button fit">Kobo</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.smashwords.com/books/view/798220" class="button fit">Smashwords</a></li>
+								<li><a href="https://www.smashwords.com/books/view/798184" class="button fit">Smashwords</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.bookbub.com/books/sting-suite-by-michael-schulkins" class="button fit">Bookbub</a></li>
+								<li><a href="https://www.bookbub.com/books/mother-lode-by-michael-schulkins" class="button fit">Bookbub</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.goodreads.com/book/show/10992773-sting-suite" class="button fit">Goodreads</a></li>
+								<li><a href="https://www.goodreads.com/book/show/10959386-mother-lode" class="button fit">Goodreads</a></li>
 							</ul>
 						</div>
 					</div>
@@ -196,7 +195,7 @@
 		<!-- Footer -->
 			<footer id="footer">
 					<div class="copyright">
-						&copy; Michael Schulkins. Design by <a href="https://templated.co">templated.co</a>
+						&copy; Michael Schulkins. Site template by <a href="https://templated.co">templated.co</a>
 					</div>
 			</footer>
 

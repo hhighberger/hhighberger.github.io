@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Up A Tree - a novel by Michael Schulkins</title>
+		<title>Sting Suite - a novel by Michael Schulkins</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -18,11 +18,6 @@
   "@type": "Book",
   "abridged": "false",  
   "additionalType": "Product",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5",
-    "reviewCount": "5"
-  },
   "author": {
     "@type": "Person",
     "name": "Michael Schulkins",
@@ -34,17 +29,17 @@
     "name": "Michael Schulkins",
     "sameAs": "http://www.michaelschulkins.com"
   }, 
-  "copyrightYear": "2015",
-  "description": "Galactic Senator Braydon Gorebush Plunkitt XII warps across space wielding the power of Leviathan to solve all of the galaxy’s problems - fortunately, his ever-resourceful robot servant Jobs is at his side to clean up the resulting mess.",
-  "genre": "Science Fiction & Fantasy > Science Fiction > Humorous",
-  "image": "images/up-a-tree.jpg", 
+  "copyrightYear": "2010",
+  "description": "When world-class con artist John Law discovers a congressional committee has frozen the $97 million he scammed from Uncle Sam, he heads straight for the belly of the beast: Washington DC.  Law draws hard-drinking, skirt-chasing US Senator Frank Mahoney and his straight-arrow chief of staff Tom Beckman into an elaborate scheme designed to trick Mahoney into getting Law’s millions out of stir.",
+  "genre": "Crime Humor",
+  "image": "images/sting-suite.jpg", 
   "inLanguage": "en-US",
-  "isbn": "9781370499892",
-  "name": "Up A Tree: A Jobs & Plunkitt Galactic Adventure",
-  "numberOfPages": "274",
+  "isbn": "9781370933211",
+  "name": "Sting Suite",
+  "numberOfPages": "464",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": "$7.99",
+    "highPrice": "$10.99",
     "lowPrice": "$2.99",
     "offerCount": "5",
     "offers": [
@@ -58,19 +53,19 @@
           "@id": "https://www.amazon.com",
           "name": "Amazon"
         },
-        "url": "https://www.amazon.com/Up-Tree-Plunkitt-Galactic-Adventure-ebook/dp/B00VVQZ9JY/"
+        "url": "https://www.amazon.com/Sting-Suite-Michael-Schulkins-ebook/dp/B00MERZDCC/"
       },
       {
         "@type": "Offer",
 		"category": "Paperback", 
-        "price": "7.99",
+        "price": "10.99",
         "priceCurrency": "USD",
 		"offeredBy": {
           "@type": "Organization",
           "@id": "https://www.amazon.com",
           "name": "Amazon"
         },
-        "url": "https://www.amazon.com/Up-Tree-Plunkitt-Galactic-Adventure/dp/1503387151/" 
+        "url": "https://www.amazon.com/Sting-Suite-Michael-Schulkins/dp/1451594992/" 
       },
       {
         "@type": "Offer",
@@ -82,7 +77,7 @@
           "@id": "https://www.barnesandnoble.com",
           "name": "Barnes & Noble"
         },
-        "url": "https://www.barnesandnoble.com/w/up-a-tree-michael-schulkins/1128090645" 
+        "url": "https://www.barnesandnoble.com/w/sting-suite-michael-schulkins/1029268125" 
       },
       {
         "@type": "Offer",
@@ -94,7 +89,7 @@
           "@id": "https://www.kobo.com",
           "name": "Kobo"
         },
-        "url": "https://www.kobo.com/us/en/ebook/up-a-tree-a-jobs-and-plunkitt-galactic-adventure" 
+        "url": "https://www.kobo.com/us/en/ebook/sting-suite" 
       },
       {
         "@type": "Offer",
@@ -106,7 +101,7 @@
           "@id": "https://www.smashwords.com",
           "name": "Smashwords"
         },
-        "url": "https://www.smashwords.com/books/view/797786"
+        "url": "https://www.smashwords.com/books/view/798220"
       }
     ]
   }
@@ -119,13 +114,13 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="index.html" class="logo"><strong>Michael Schulkins</strong></a>
+					<a href="/" class="logo"><strong>Michael Schulkins</strong></a>
 					<nav id="nav">
-						<a href="index.html">Home</a>
-						<a href="up-a-tree.html">Up A Tree</a>
-						<a href="beltway.html">Beltway</a>
-						<a href="mother-lode.html">Mother Lode</a>
-						<a href="sting-suite.html">Sting Suite</a>
+						<a href="/">Home</a>
+						<a href="/up-a-tree">Up A Tree</a>
+						<a href="/beltway">Beltway</a>
+						<a href="/mother-lode">Mother Lode</a>
+						<a href="/sting-suite">Sting Suite</a>
 					</nav>
 					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
 				</div>
@@ -134,43 +129,41 @@
 		<!-- Main -->
 			<section id="main" class="wrapper">
 				<div class="inner">
-				
-					<span class="image left"><img src="images/up-a-tree.jpg" alt="Up A Tree: A Jobs & Plunkitt Galactic Adventure - novel by Michael Schulkins" title="Up A Tree" /></span>
-					<h2>Up A Tree: A Jobs & Plunkitt Galactic Adventure</h2>
-					<p>Galactic Senator Braydon Gorebush Plunkitt XII warps across space wielding the power of Leviathan to solve all of the galaxy’s problems - fortunately, his ever-resourceful robot servant Jobs is at his side to clean up the resulting mess. </p>
-					<p>In <i>Up A Tree</i>, Jobs and Plunkitt travel to the rustic “warp-around” planet Tree, which is in upheaval over the new galactic motion tax: the beavos are grumbling, the birds aren’t flying, and the termites are on strike. Will Senator Plunkitt, through no fault of his own, save the birds and the beavos from the motion tax, not to mention the termites? Will Jobs save Plunkitt from being eaten by a giant artichoke? Find out on this adventurous romp with the galaxy's funniest politicians.</p>
-					<p>With humor ranging from egregious puns to incisive political commentary, and characters ranging from campy to wry, <i>Up A Tree</i> serves up a smorgasbord of sci-fi satire suitable for fans of Douglas Adams and Terry Pratchett.</p>
-					<blockquote>“I loved, loved this book! Yes, the author’s use of the language is a cut above, but what really won me over is that it is just flat out funny. The main character is a Galactic Senator, so futuristic political themes such as the Heat Death of the Universe and the Galactic Motion Tax are woven into the escapades. The satire gives the book some heft and only adds to a rollicking good story. The author’s knack for writing dialogue gives this highly entertaining book a cinematic feel.” <footer>— <cite>Shirley Kesson</cite></footer></blockquote>
+					<span class="image left"><img src="images/sting-suite.jpg" alt="Sting Suite - novel by Michael Schulkins" title="Sting Suite" /></span>
+					<h2>Sting Suite</h2>
+					<p>When world-class con artist John Law discovers a congressional committee has frozen the $97 million he scammed from Uncle Sam, he heads straight for the belly of the beast: Washington DC.  Law soon draws hard-drinking, skirt-chasing US Senator Frank Mahoney and his straight-arrow chief of staff Tom Beckman into an elaborate scheme designed to trick Mahoney into getting Law’s stolen millions out of stir.</p>
+					<p>Before long the cast of characters of this convoluted comic caper includes an African-American Trekkie pickpocket, a wisecracking blonde out to catch herself a senator, and a drug-addled computer geek so tripped out he thinks he’s paralyzed.  By the time the scam reaches its climax in a fake FBI sting suite at a raucous State Party convention, no one is sure who anyone really is or which of three (or is it four?) sides they might be on.  To decide the winner, it will take seductions, betrayals, a rooftop shootout, and tuxedo-clad congressmen diving for $100 bills in a hotel swimming pool.</p>
+					<p>Full of wacky characters, absurd situations, wry political satire, and mind-bending cons within cons, <i>Sting Suite</i> is a dizzying comic romp through the corridors of power.</p>
 
 					<div class="row">
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.amazon.com/Up-Tree-Plunkitt-Galactic-Adventure-ebook/dp/B00VVQZ9JY/" class="button fit">Amazon</a></li>
+								<li><a href="https://www.amazon.com/Sting-Suite-Michael-Schulkins-ebook/dp/B00MERZDCC/" class="button fit">Amazon</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.barnesandnoble.com/w/up-a-tree-michael-schulkins/1128090645" class="button fit">Barnes & Noble</a></li>
+								<li><a href="https://www.barnesandnoble.com/w/sting-suite-michael-schulkins/1029268125" class="button fit">Barnes & Noble</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.kobo.com/us/en/ebook/up-a-tree-a-jobs-and-plunkitt-galactic-adventure" class="button fit">Kobo</a></li>
+								<li><a href="https://www.kobo.com/us/en/ebook/sting-suite" class="button fit">Kobo</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.smashwords.com/books/view/797786" class="button fit">Smashwords</a></li>
+								<li><a href="https://www.smashwords.com/books/view/798220" class="button fit">Smashwords</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.bookbub.com/books/up-a-tree-a-jobs-and-plunkitt-galactic-adventure-by-michael-schulkins" class="button fit">Bookbub</a></li>
+								<li><a href="https://www.bookbub.com/books/sting-suite-by-michael-schulkins" class="button fit">Bookbub</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.goodreads.com/book/show/25390313-up-a-tree" class="button fit">Goodreads</a></li>
+								<li><a href="https://www.goodreads.com/book/show/10992773-sting-suite" class="button fit">Goodreads</a></li>
 							</ul>
 						</div>
 					</div>
@@ -203,7 +196,7 @@
 		<!-- Footer -->
 			<footer id="footer">
 					<div class="copyright">
-						&copy; Michael Schulkins. Design by <a href="https://templated.co">templated.co</a>
+						&copy; Michael Schulkins. Site template by <a href="https://templated.co">templated.co</a>
 					</div>
 			</footer>
 

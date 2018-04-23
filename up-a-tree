@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Mother Lode - a novel by Michael Schulkins</title>
+		<title>Up A Tree - a novel by Michael Schulkins</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -18,6 +18,11 @@
   "@type": "Book",
   "abridged": "false",  
   "additionalType": "Product",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "5"
+  },
   "author": {
     "@type": "Person",
     "name": "Michael Schulkins",
@@ -29,17 +34,17 @@
     "name": "Michael Schulkins",
     "sameAs": "http://www.michaelschulkins.com"
   }, 
-  "copyrightYear": "2010",
-  "description": "Put a dollar in the slot, pull the handle, then try to follow the action as the plots start to spin out of control. Mother Lode delivers a jackpot of laughs, surprises, suspense, and deadly fun as a pack of charming, ruthless, and insane characters all try to beat the Biggest Slot Machine in the World.",
-  "genre": "Crime Humor",
-  "image": "images/mother-lode.jpg", 
+  "copyrightYear": "2015",
+  "description": "Galactic Senator Braydon Gorebush Plunkitt XII warps across space wielding the power of Leviathan to solve all of the galaxy’s problems - fortunately, his ever-resourceful robot servant Jobs is at his side to clean up the resulting mess.",
+  "genre": "Science Fiction & Fantasy > Science Fiction > Humorous",
+  "image": "images/up-a-tree.jpg", 
   "inLanguage": "en-US",
-  "isbn": "9781370976843",
-  "name": "Mother Lode",
-  "numberOfPages": "339",
+  "isbn": "9781370499892",
+  "name": "Up A Tree: A Jobs & Plunkitt Galactic Adventure",
+  "numberOfPages": "274",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": "$8.99",
+    "highPrice": "$7.99",
     "lowPrice": "$2.99",
     "offerCount": "5",
     "offers": [
@@ -53,19 +58,19 @@
           "@id": "https://www.amazon.com",
           "name": "Amazon"
         },
-        "url": "https://www.amazon.com/Mother-Lode-Michael-Schulkins-ebook/dp/B00MF5GYT4/"
+        "url": "https://www.amazon.com/Up-Tree-Plunkitt-Galactic-Adventure-ebook/dp/B00VVQZ9JY/"
       },
       {
         "@type": "Offer",
 		"category": "Paperback", 
-        "price": "8.99",
+        "price": "7.99",
         "priceCurrency": "USD",
 		"offeredBy": {
           "@type": "Organization",
           "@id": "https://www.amazon.com",
           "name": "Amazon"
         },
-        "url": "https://www.amazon.com/Mother-Lode-Michael-Schulkins/dp/1453807136/" 
+        "url": "https://www.amazon.com/Up-Tree-Plunkitt-Galactic-Adventure/dp/1503387151/" 
       },
       {
         "@type": "Offer",
@@ -77,7 +82,7 @@
           "@id": "https://www.barnesandnoble.com",
           "name": "Barnes & Noble"
         },
-        "url": "https://www.barnesandnoble.com/w/mother-lode-michael-schulkins/1029269705" 
+        "url": "https://www.barnesandnoble.com/w/up-a-tree-michael-schulkins/1128090645" 
       },
       {
         "@type": "Offer",
@@ -89,7 +94,7 @@
           "@id": "https://www.kobo.com",
           "name": "Kobo"
         },
-        "url": "https://www.kobo.com/us/en/ebook/mother-lode-5" 
+        "url": "https://www.kobo.com/us/en/ebook/up-a-tree-a-jobs-and-plunkitt-galactic-adventure" 
       },
       {
         "@type": "Offer",
@@ -101,7 +106,7 @@
           "@id": "https://www.smashwords.com",
           "name": "Smashwords"
         },
-        "url": "https://www.smashwords.com/books/view/798184"
+        "url": "https://www.smashwords.com/books/view/797786"
       }
     ]
   }
@@ -114,13 +119,13 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="index.html" class="logo"><strong>Michael Schulkins</strong></a>
+					<a href="/" class="logo"><strong>Michael Schulkins</strong></a>
 					<nav id="nav">
-						<a href="index.html">Home</a>
-						<a href="up-a-tree.html">Up A Tree</a>
-						<a href="beltway.html">Beltway</a>
-						<a href="mother-lode.html">Mother Lode</a>
-						<a href="sting-suite.html">Sting Suite</a>
+						<a href="/">Home</a>
+						<a href="/up-a-tree">Up A Tree</a>
+						<a href="/beltway">Beltway</a>
+						<a href="/mother-lode">Mother Lode</a>
+						<a href="/sting-suite">Sting Suite</a>
 					</nav>
 					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
 				</div>
@@ -129,40 +134,43 @@
 		<!-- Main -->
 			<section id="main" class="wrapper">
 				<div class="inner">
-					<span class="image left"><img src="images/mother-lode.jpg" alt="Mother Lode - novel by Michael Schulkins" title="Mother Lode" /></span>
-					<h2>Mother Lode</h2>
-					<p>Everybody’s going nuts over the Biggest Slot Machine in the World. Octogenarian skinflint Elmore Joad thinks it will attract enough “suckers” to put his aging Mother Lode Hotel and Casino back in the black, especially since he’s had the giant slot rigged never to hit the million dollar jackpot. Part time guitarist and full time slot cheat Darryl “the Wire” Miller wants to beat the big machine in the worst way, and if he plays his cards right he may get Kitty Carson, Reno’s best card mechanic, to help him do it. Then there’s Gaming cop Jaime Gabrón, who’s stalking the suspicious slot and Elmore Joad like a sun-baked refried Columbo. The only guys in town not interested in the big machine are the two hit men Joad hired to kill his sexy wife Daisy, but then they have some special plans of their own…</p>
-					<p>Put a dollar in the slot, pull the handle, then try to follow the action as the plots start to spin out of control. <i>Mother Lode</i> delivers a jackpot of laughs, surprises, suspense, and deadly fun as a pack of charming, ruthless, and insane characters all try to beat the Biggest Slot Machine in the World.</p>
+				
+					<span class="image left"><img src="images/up-a-tree.jpg" alt="Up A Tree: A Jobs & Plunkitt Galactic Adventure - novel by Michael Schulkins" title="Up A Tree" /></span>
+					<h2>Up A Tree: A Jobs & Plunkitt Galactic Adventure</h2>
+					<p>Galactic Senator Braydon Gorebush Plunkitt XII warps across space wielding the power of Leviathan to solve all of the galaxy’s problems - fortunately, his ever-resourceful robot servant Jobs is at his side to clean up the resulting mess. </p>
+					<p>In <i>Up A Tree</i>, Jobs and Plunkitt travel to the rustic “warp-around” planet Tree, which is in upheaval over the new galactic motion tax: the beavos are grumbling, the birds aren’t flying, and the termites are on strike. Will Senator Plunkitt, through no fault of his own, save the birds and the beavos from the motion tax, not to mention the termites? Will Jobs save Plunkitt from being eaten by a giant artichoke? Find out on this adventurous romp with the galaxy's funniest politicians.</p>
+					<p>With humor ranging from egregious puns to incisive political commentary, and characters ranging from campy to wry, <i>Up A Tree</i> serves up a smorgasbord of sci-fi satire suitable for fans of Douglas Adams and Terry Pratchett.</p>
+					<blockquote>“I loved, loved this book! Yes, the author’s use of the language is a cut above, but what really won me over is that it is just flat out funny. The main character is a Galactic Senator, so futuristic political themes such as the Heat Death of the Universe and the Galactic Motion Tax are woven into the escapades. The satire gives the book some heft and only adds to a rollicking good story. The author’s knack for writing dialogue gives this highly entertaining book a cinematic feel.” <footer>— <cite>Shirley Kesson</cite></footer></blockquote>
 
 					<div class="row">
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.amazon.com/Mother-Lode-Michael-Schulkins-ebook/dp/B00MF5GYT4/" class="button fit">Amazon</a></li>
+								<li><a href="https://www.amazon.com/Up-Tree-Plunkitt-Galactic-Adventure-ebook/dp/B00VVQZ9JY/" class="button fit">Amazon</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.barnesandnoble.com/w/mother-lode-michael-schulkins/1029269705" class="button fit">Barnes & Noble</a></li>
+								<li><a href="https://www.barnesandnoble.com/w/up-a-tree-michael-schulkins/1128090645" class="button fit">Barnes & Noble</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.kobo.com/us/en/ebook/mother-lode-5" class="button fit">Kobo</a></li>
+								<li><a href="https://www.kobo.com/us/en/ebook/up-a-tree-a-jobs-and-plunkitt-galactic-adventure" class="button fit">Kobo</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.smashwords.com/books/view/798184" class="button fit">Smashwords</a></li>
+								<li><a href="https://www.smashwords.com/books/view/797786" class="button fit">Smashwords</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.bookbub.com/books/mother-lode-by-michael-schulkins" class="button fit">Bookbub</a></li>
+								<li><a href="https://www.bookbub.com/books/up-a-tree-a-jobs-and-plunkitt-galactic-adventure-by-michael-schulkins" class="button fit">Bookbub</a></li>
 							</ul>
 						</div>
 						<div class="2u 12u$(small)">
 							<ul class="actions fit">
-								<li><a href="https://www.goodreads.com/book/show/10959386-mother-lode" class="button fit">Goodreads</a></li>
+								<li><a href="https://www.goodreads.com/book/show/25390313-up-a-tree" class="button fit">Goodreads</a></li>
 							</ul>
 						</div>
 					</div>
@@ -195,7 +203,7 @@
 		<!-- Footer -->
 			<footer id="footer">
 					<div class="copyright">
-						&copy; Michael Schulkins. Design by <a href="https://templated.co">templated.co</a>
+						&copy; Michael Schulkins. Site template by <a href="https://templated.co">templated.co</a>
 					</div>
 			</footer>
 
