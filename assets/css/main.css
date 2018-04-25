@@ -2723,7 +2723,7 @@
 		text-align: right;
 		top: 2em;
 		width: 100%;
-		z-index: 0.1;
+		z-index: 1;
 	}
 
 		#header .inner {
@@ -2775,7 +2775,7 @@
 				text-decoration: none;
 				height: 4em;
 				width: 4em;
-				z-index: 0.2;
+				z-index: 2;
 			}
 
 				#header a.navPanelToggle .fa {
@@ -2853,7 +2853,7 @@
 		max-width: 80%;
 		width: 20em;
 		padding: 0.5em 1.25em;
-		z-index: 0.4;
+		z-index: 4;
 	}
 
 		#navPanel.visible {
@@ -2947,7 +2947,7 @@
 
 		#banner .inner {
 			position: relative;
-			z-index: 0.3;
+			z-index: 3;
 		}
 
 		#banner h1 {
