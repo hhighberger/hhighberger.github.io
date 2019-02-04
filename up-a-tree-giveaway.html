@@ -10,6 +10,12 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/giveaway.css" />
+		<!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.countdown.js"></script>
+        <script src="assets/js/skel.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script>
 	</head>
 	<body>
 
@@ -32,7 +38,12 @@
                                     <span style="color:#ffffff;">6 winners</span>
                                 </section>
                             </div>
-                            <span style="color:#ffffff;">12 d 18 h 39 m 04 s</span>
+                            <span id="clock" style="color:#ffffff;"></span>
+                            <script type="text/javascript">
+                              $('#clock').countdown('2019/05/01', function(event) {
+                                $(this).html(event.strftime('%D days %H:%M:%S'));
+                              });
+                            </script>
                         </section>
                         <section class="2u 12u$(medium)" style="margin:0;padding:0;">
                             <img src="images/giveaway_book.png" width="100%" height="100%" />
@@ -108,21 +119,15 @@
                 
                     <div class="row">
                         <section class="6u 12u$(medium)">
-                            Giveaway Ends November 29, 2018 7:00 pm PDT
+                            Giveaway Ends May 1, 2019
                         </section>
                         <section class="6u 12u$(medium)">
-                            Prizes Awarded December 5, 2018 7:00 pm PDT
+                            Prizes Awarded May 7, 2019
                         </section>
                     </div>
                     
 				</div>
 			</footer>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
 
 	</body>
 </html>
