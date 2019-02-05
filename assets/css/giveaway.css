@@ -1651,6 +1651,7 @@
 		}
 
 	strong, b {
+		color: #555;
 		font-weight: 600;
 	}
 
@@ -1661,7 +1662,7 @@
 	p {
 		margin: 0 0 2em 0;
 	}
-        
+    
         p.book {
             margin: 0;
             text-indent: 2em;
@@ -1805,7 +1806,7 @@
 		}
 
 	section.wrapper, article.wrapper {
-		padding: 2em 0;
+		padding: 3em 0;
 	}
 
 		section.wrapper header, article.wrapper header {
@@ -2014,8 +2015,8 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #6d9f56;
-			box-shadow: 0 0 0 1px #6d9f56;
+			border-color: #00829b;
+			box-shadow: 0 0 0 1px #00829b;
 		}
 
 	.select-wrapper {
@@ -2117,16 +2118,16 @@
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #6d9f56;
-			border-color: #6d9f56;
+			background: #accc98;
+			border-color: #accc98;
 			color: #ffffff;
 			content: '\f00c';
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #6d9f56;
-			box-shadow: 0 0 0 1px #6d9f56;
+			border-color: #accc98;
+			box-shadow: 0 0 0 1px #accc98;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2328,6 +2329,7 @@
 			ul.icons li {
 				display: inline-block;
 				padding: 0 1em 0 0;
+                vertical-align: middle;
 			}
 
 				ul.icons li:last-child {
@@ -2663,7 +2665,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #6d9f56;
+				background-color: #accc98;
 			}
 
 			input[type="submit"].special:active,
@@ -2929,7 +2931,7 @@
 /* Banner */
 
 	#banner {
-		padding: 1em 0 1em 0;
+		padding: 3em 0 1em 0;
 		background-color: #accc98;
 		position: relative;
 	}
@@ -2950,19 +2952,18 @@
 		}
 
 		#banner h1 {
-			font-family: 'Mr Dafoe', cursive;
-            font-size: 4em;
+			font-size: 2.5em;
 			font-weight: 400;
 			color: #fff;
 			line-height: 1em;
-			margin: 0;
+			margin: 0 0 0.5em 0;
 			padding: 0;
 		}
 
 		#banner h3 {
 			font-weight: 400;
 			color: #fff;
-			margin: 0 0 1em 0;
+			margin: 0 0 0.5em 0;
 			font-size: 1.5em;
 		}
 
@@ -2970,6 +2971,12 @@
 			color: #accc98;
 			font-size: 2em;
 		}
+        
+        #banner i {
+            color: #fff;
+            font-size: 1.25em;
+            margin: 0.5em;
+        }
 
 		#banner p {
 			font-size: 1em;
@@ -3024,15 +3031,15 @@
 		@media screen and (max-width: 1280px) {
 
 			#banner {
-				padding: 6em 0 6em 0;
+				padding: 3em 0 1em 0;
 			}
 
 				#banner .inner {
-					padding-top: 6em;
+					/* padding-top: 6em; */
 				}
 
 				#banner h1 {
-					font-size: 3em;
+					font-size: 2.5em;
 				}
 
 				#banner h3 {
@@ -3049,11 +3056,11 @@
 
 			#banner {
 				background-attachment: scroll;
-				padding: 5em 0 4em 0;
+				padding: 3em 0 1em 0;
 			}
 
 				#banner .inner {
-					padding-top: 4em;
+					/* padding-top: 4em; */
 				}
 
 				#banner h1 {
@@ -3074,11 +3081,11 @@
 		@media screen and (max-width: 736px) {
 
 			#banner {
-				padding: 4em 0 3em 0;
+				padding: 3em 0 1em 0;
 			}
 
 				#banner .inner {
-					padding-top: 3em;
+					/* padding-top: 3em; */
 				}
 
 				#banner h1 {
@@ -3109,7 +3116,7 @@
 		@media screen and (max-width: 480px) {
 
 			#banner h1 {
-				font-size: 1.5em;
+				font-size: 2em;
 			}
 
 		}
@@ -3117,12 +3124,16 @@
 /* Footer */
 
 	#footer {
-		padding: 1em 0;
+		padding: 2em 0;
 		background: #accc98;
 		color: #fff;
 		text-align: center;
 	}
 
+		#footer h2 {
+			color: #FFF;
+		}
+        
 		#footer h3 {
 			color: #FFF;
 			margin-bottom: 2em !important;
@@ -3136,7 +3147,7 @@
 		#footer .copyright {
 			color: rgba(255, 255, 255, 0.5);
 			font-size: 0.8em;
-			margin: 0 0 2em 0;
+			margin: 2em 0;
 			padding: 0;
 		}
 
